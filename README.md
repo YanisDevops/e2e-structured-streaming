@@ -114,3 +114,4 @@ Apache Airflow, Python, Apache Kafka, Apache Zookeeper, Apache Spark, Cassandra,
 `cqlsh> SELECT count(*) FROM spark_streaming.created_users;`
 
 ![alt text](img/count-created-users.png)
+.
